@@ -1,0 +1,6 @@
+.header{
+    font-family: 'Krona One', sans-serif;
+  grid-area: hd;
+  background-color: rgb(108, 255, 71);
+  width: auto;
+ }
